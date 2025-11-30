@@ -1,4 +1,4 @@
-# untitled14
+# Social Media App (Flutter + Firebase)
 
 A new Flutter project.
 
